@@ -1,4 +1,4 @@
-package com.nisum.demoapp;
+package com.nis.demoapp;
 
 import java.util.ArrayList;
 import java.util.List;
