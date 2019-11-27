@@ -1,4 +1,4 @@
-package com.nisum.demoapp.controller;
+package com.nis.demoapp.controller;
 
 import java.util.List;
 import java.util.Optional;
@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.nisum.demoapp.entity.Employee;
-import com.nisum.demoapp.service.EmployeeService;
+import com.nis.demoapp.entity.Employee;
+import com.nis.demoapp.service.EmployeeService;
 
 @RestController
 @RequestMapping("/emp")

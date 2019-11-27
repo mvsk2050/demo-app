@@ -1,8 +1,8 @@
-package com.nisum.demoapp.repo;
+package com.nis.demoapp.repo;
 
 import org.springframework.data.repository.CrudRepository;
 
-import com.nisum.demoapp.entity.Employee;
+import com.nis.demoapp.entity.Employee;
 
 public interface EmployeeRepository extends CrudRepository<Employee, Integer>{
 

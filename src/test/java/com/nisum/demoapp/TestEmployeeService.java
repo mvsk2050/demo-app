@@ -12,9 +12,9 @@ import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
 
-import com.nisum.demoapp.entity.Employee;
-import com.nisum.demoapp.repo.EmployeeRepository;
-import com.nisum.demoapp.service.EmployeeService;
+import com.nis.demoapp.entity.Employee;
+import com.nis.demoapp.repo.EmployeeRepository;
+import com.nis.demoapp.service.EmployeeService;
 
 public class TestEmployeeService {
 

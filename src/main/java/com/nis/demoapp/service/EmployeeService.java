@@ -1,11 +1,12 @@
-package com.nisum.demoapp.service;
+package com.nis.demoapp.service;
 
 import java.util.List;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.nisum.demoapp.entity.Employee;
-import com.nisum.demoapp.repo.EmployeeRepository;
+
+import com.nis.demoapp.entity.Employee;
+import com.nis.demoapp.repo.EmployeeRepository;
 
 @Service
 public class EmployeeService {

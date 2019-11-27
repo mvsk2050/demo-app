@@ -1,4 +1,4 @@
-package com.nisum.demoapp.entity;
+package com.nis.demoapp.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
